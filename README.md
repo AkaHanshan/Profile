@@ -8,10 +8,6 @@
 
 <div align="center">
 
-An Profile Created buy Next.js And Ant Design
-
-
-
 
 [![Follow Twitter][twitter-image]][twitter-url]
 
@@ -22,8 +18,26 @@ An Profile Created buy Next.js And Ant Design
 </div>
 
 
-### TypeScript
+### 🚗Stared
+
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+
+### 🚀Website
+
+[Page](https://profile-akahanshan.vercel.app/)
+
+### 🎇TypeScript
 
 `profile` is written by Next.js in TypeScript with complete definitions, check [Use in TypeScript](https://nextjs.org/docs/basic-features/typescript) to get started.
 
-, see more at [Development](https://github.com/ant-design/ant-design/wiki/Development).
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
